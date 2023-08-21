@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'demopwapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A1629686F1F34F97BFBD283ECF2A5C04 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CBC03103ED3F43D0BC42E8A1AD60A0A5 }}
